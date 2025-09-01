@@ -78,9 +78,7 @@ Donde `<N>` es el número de procesos MPI (usualmente igual al número de núcle
 - El Makefile incluye targets para limpiar (`make clean`), pruebas y benchmarking.
 - Para benchmarking automatizado, usa el script `run_mpi_all.sh` o el que corresponda.
 
-## Créditos
-Proyecto académico para la materia de Computación Paralela.
-Autores: RUI YU LEI WU
+
 # Parcial 1 - Programación Paralela
 ## Procesamiento de Imágenes PPM/PGM
 
