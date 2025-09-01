@@ -1,0 +1,205 @@
+Resultados de Mediciones - Versión MPI
+Fecha: Thu Aug 28 16:01:27 UTC 2025
+================================================
+
+Imagen: damma.pgm - Filtro: blur - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 736031 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 301076 microsegundos
+Tiempo de guardado: 1023170 microsegundos
+Tiempo total: 2060277 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.74906e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2074356 microsegundos
+
+Imagen: damma.pgm - Filtro: blur - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 840684 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 248521 microsegundos
+Tiempo de guardado: 991890 microsegundos
+Tiempo total: 2081095 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.80572e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2096300 microsegundos
+
+Imagen: damma.pgm - Filtro: laplace - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 719171 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 285066 microsegundos
+Tiempo de guardado: 973149 microsegundos
+Tiempo total: 1977386 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.71238e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1991536 microsegundos
+
+Imagen: damma.pgm - Filtro: laplace - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 804880 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 205432 microsegundos
+Tiempo de guardado: 972909 microsegundos
+Tiempo total: 1983221 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.72405e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2002148 microsegundos
+
+Imagen: damma.pgm - Filtro: sharpen - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 745043 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 283109 microsegundos
+Tiempo de guardado: 935869 microsegundos
+Tiempo total: 1964021 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.73393e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1978564 microsegundos
+
+Imagen: damma.pgm - Filtro: sharpen - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 797007 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (MPI): 235665 microsegundos
+Tiempo de guardado: 971810 microsegundos
+Tiempo total: 2004482 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.74806e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2026121 microsegundos
+
+----------------------------------------
+Imagen: sulfur.pgm - Filtro: blur - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 444550 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 224186 microsegundos
+Tiempo de guardado: 669274 microsegundos
+Tiempo total: 1338010 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.1358e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1350528 microsegundos
+
+Imagen: sulfur.pgm - Filtro: blur - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 545377 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 127823 microsegundos
+Tiempo de guardado: 674790 microsegundos
+Tiempo total: 1347990 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.14317e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1364854 microsegundos
+
+Imagen: sulfur.pgm - Filtro: laplace - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 446794 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 168454 microsegundos
+Tiempo de guardado: 668603 microsegundos
+Tiempo total: 1283851 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.08679e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1295405 microsegundos
+
+Imagen: sulfur.pgm - Filtro: laplace - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 535253 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 130186 microsegundos
+Tiempo de guardado: 657581 microsegundos
+Tiempo total: 1323020 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.1332e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1337275 microsegundos
+
+Imagen: sulfur.pgm - Filtro: sharpen - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 468994 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 191440 microsegundos
+Tiempo de guardado: 680629 microsegundos
+Tiempo total: 1341063 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.12793e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1353443 microsegundos
+
+Imagen: sulfur.pgm - Filtro: sharpen - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 486390 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (MPI): 135751 microsegundos
+Tiempo de guardado: 740753 microsegundos
+Tiempo total: 1362894 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.13923e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1380541 microsegundos
+
+----------------------------------------
+Imagen: fruit.ppm - Filtro: blur - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 804455 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 207027 microsegundos
+Tiempo de guardado: 912254 microsegundos
+Tiempo total: 1923736 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.70399e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1934929 microsegundos
+
+Imagen: fruit.ppm - Filtro: blur - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 801847 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 111671 microsegundos
+Tiempo de guardado: 877172 microsegundos
+Tiempo total: 1790690 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.60698e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1809563 microsegundos
+
+Imagen: fruit.ppm - Filtro: laplace - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 744383 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 181025 microsegundos
+Tiempo de guardado: 900871 microsegundos
+Tiempo total: 1826279 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.61243e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1837572 microsegundos
+
+Imagen: fruit.ppm - Filtro: laplace - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 931460 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 141997 microsegundos
+Tiempo de guardado: 899106 microsegundos
+Tiempo total: 1972563 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.74979e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1988034 microsegundos
+
+Imagen: fruit.ppm - Filtro: sharpen - 2 procesos
+Procesos MPI: 2
+Tiempo de carga: 776688 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 171251 microsegundos
+Tiempo de guardado: 914119 microsegundos
+Tiempo total: 1862058 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.63354e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1872921 microsegundos
+
+Imagen: fruit.ppm - Filtro: sharpen - 4 procesos
+Procesos MPI: 4
+Tiempo de carga: 880370 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (MPI): 148812 microsegundos
+Tiempo de guardado: 895081 microsegundos
+Tiempo total: 1924263 microsegundos
+=== Resumen de Tiempos (MPI) ===
+Tiempo de CPU (proceso 0): 1.73431e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1938681 microsegundos
+
+----------------------------------------
