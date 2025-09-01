@@ -220,10 +220,6 @@ El script genera:
 - `damma.pgm`: Imagen de ejemplo
 - `sulfur.pgm`: Imagen de ejemplo
 
-### Próximas Implementaciones
-1. **Versión con Pthreads**: Paralelización por regiones
-2. **Versión con OpenMP**: Paralelización de bucles
-3. **Versión con MPI**: Distribución entre contenedores Docker
 
 
 ### Notas de Implementación
