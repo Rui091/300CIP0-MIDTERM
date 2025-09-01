@@ -227,8 +227,6 @@ El script genera:
 2. **Versión con OpenMP**: Paralelización de bucles
 3. **Versión con MPI**: Distribución entre contenedores Docker
 
-### Autor
-Desarrollado para el Parcial 1 del curso de Programación Paralela
 
 ### Notas de Implementación
 - Se utilizan arreglos dinámicos en lugar de vectores STL
