@@ -1,0 +1,159 @@
+Resultados de Mediciones - Versión Secuencial
+Fecha: Thu Aug 28 15:37:51 UTC 2025
+================================================
+
+Imagen: fruit.ppm
+Tiempo de carga: 702538 microsegundos
+Dimensiones: 900 x 450
+    Filtro: blur
+Tiempo de carga: 725062 microsegundos
+Tiempo de aplicación del filtro: 405785 microsegundos
+Tiempo de guardado: 958351 microsegundos
+Tiempo total: 2089198 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.78506e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2091180 microsegundos
+
+    Filtro: laplace
+Tiempo de carga: 701669 microsegundos
+Tiempo de aplicación del filtro: 420975 microsegundos
+Tiempo de guardado: 910200 microsegundos
+Tiempo total: 2032844 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.73359e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2034855 microsegundos
+
+    Filtro: sharpen
+Tiempo de carga: 665076 microsegundos
+Tiempo de aplicación del filtro: 420787 microsegundos
+Tiempo de guardado: 941846 microsegundos
+Tiempo total: 2027709 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.74423e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2029639 microsegundos
+
+----------------------------------------
+Imagen: lena.ppm
+Tiempo de carga: 32590 microsegundos
+Dimensiones: 128 x 128
+    Filtro: blur
+Tiempo de carga: 35288 microsegundos
+Tiempo de aplicación del filtro: 16073 microsegundos
+Tiempo de guardado: 55764 microsegundos
+Tiempo total: 107125 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 77128 microsegundos
+Tiempo de ejecución total (wall-clock): 109157 microsegundos
+
+    Filtro: laplace
+Tiempo de carga: 48103 microsegundos
+Tiempo de aplicación del filtro: 18780 microsegundos
+Tiempo de guardado: 59136 microsegundos
+Tiempo total: 126019 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 91230 microsegundos
+Tiempo de ejecución total (wall-clock): 127749 microsegundos
+
+    Filtro: sharpen
+Tiempo de carga: 34393 microsegundos
+Tiempo de aplicación del filtro: 17873 microsegundos
+Tiempo de guardado: 57484 microsegundos
+Tiempo total: 109750 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 78601 microsegundos
+Tiempo de ejecución total (wall-clock): 111621 microsegundos
+
+----------------------------------------
+Imagen: puj.pgm
+Tiempo de carga: 649547 microsegundos
+Dimensiones: 1920 x 600
+    Filtro: blur
+Tiempo de carga: 651215 microsegundos
+Tiempo de aplicación del filtro: 518984 microsegundos
+Tiempo de guardado: 763751 microsegundos
+Tiempo total: 1933950 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.70546e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1935840 microsegundos
+
+    Filtro: laplace
+Tiempo de carga: 630717 microsegundos
+Tiempo de aplicación del filtro: 565475 microsegundos
+Tiempo de guardado: 782218 microsegundos
+Tiempo total: 1978410 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.76708e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1980281 microsegundos
+
+    Filtro: sharpen
+Tiempo de carga: 642926 microsegundos
+Tiempo de aplicación del filtro: 570420 microsegundos
+Tiempo de guardado: 793611 microsegundos
+Tiempo total: 2006957 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.77579e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2009093 microsegundos
+
+----------------------------------------
+Imagen: damma.pgm
+Tiempo de carga: 663854 microsegundos
+Dimensiones: 1000 x 1278
+    Filtro: blur
+Tiempo de carga: 674051 microsegundos
+Tiempo de aplicación del filtro: 588621 microsegundos
+Tiempo de guardado: 952569 microsegundos
+Tiempo total: 2215241 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.88609e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2217577 microsegundos
+
+    Filtro: laplace
+Tiempo de carga: 627078 microsegundos
+Tiempo de aplicación del filtro: 627632 microsegundos
+Tiempo de guardado: 954636 microsegundos
+Tiempo total: 2209346 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.88838e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2211644 microsegundos
+
+    Filtro: sharpen
+Tiempo de carga: 658615 microsegundos
+Tiempo de aplicación del filtro: 616548 microsegundos
+Tiempo de guardado: 1019463 microsegundos
+Tiempo total: 2294626 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.93649e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2296929 microsegundos
+
+----------------------------------------
+Imagen: sulfur.pgm
+Tiempo de carga: 381061 microsegundos
+Dimensiones: 823 x 1000
+    Filtro: blur
+Tiempo de carga: 408191 microsegundos
+Tiempo de aplicación del filtro: 353319 microsegundos
+Tiempo de guardado: 641508 microsegundos
+Tiempo total: 1403018 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.156e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1405178 microsegundos
+
+    Filtro: laplace
+Tiempo de carga: 414210 microsegundos
+Tiempo de aplicación del filtro: 401995 microsegundos
+Tiempo de guardado: 679821 microsegundos
+Tiempo total: 1496026 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.2458e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1498356 microsegundos
+
+    Filtro: sharpen
+Tiempo de carga: 409395 microsegundos
+Tiempo de aplicación del filtro: 445208 microsegundos
+Tiempo de guardado: 738904 microsegundos
+Tiempo total: 1593507 microsegundos
+=== Resumen de Tiempos ===
+Tiempo de CPU: 1.31537e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1596088 microsegundos
+
+----------------------------------------
