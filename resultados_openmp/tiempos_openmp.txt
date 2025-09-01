@@ -1,0 +1,106 @@
+Resultados de Mediciones - Versión OpenMP
+Fecha: Thu Aug 28 16:01:26 UTC 2025
+================================================
+
+Imagen: damma.pgm - Filtro: blur
+Hilos disponibles: 12
+Tiempo de carga: 640545 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (OpenMP): 202043 microsegundos
+Tiempo de guardado: 1085240 microsegundos
+Tiempo total: 1927828 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 3.44232e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1930652 microsegundos
+
+Imagen: damma.pgm - Filtro: laplace
+Hilos disponibles: 12
+Tiempo de carga: 630706 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (OpenMP): 221673 microsegundos
+Tiempo de guardado: 1048958 microsegundos
+Tiempo total: 1901337 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 3.67325e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1904308 microsegundos
+
+Imagen: damma.pgm - Filtro: sharpen
+Hilos disponibles: 12
+Tiempo de carga: 634815 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (OpenMP): 204882 microsegundos
+Tiempo de guardado: 1028388 microsegundos
+Tiempo total: 1868085 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 3.44131e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1870707 microsegundos
+
+----------------------------------------
+Imagen: sulfur.pgm - Filtro: blur
+Hilos disponibles: 12
+Tiempo de carga: 378258 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (OpenMP): 136490 microsegundos
+Tiempo de guardado: 695376 microsegundos
+Tiempo total: 1210124 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.16789e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1212784 microsegundos
+
+Imagen: sulfur.pgm - Filtro: laplace
+Hilos disponibles: 12
+Tiempo de carga: 383127 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (OpenMP): 141831 microsegundos
+Tiempo de guardado: 700651 microsegundos
+Tiempo total: 1225609 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.20007e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1228144 microsegundos
+
+Imagen: sulfur.pgm - Filtro: sharpen
+Hilos disponibles: 12
+Tiempo de carga: 400497 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (OpenMP): 148956 microsegundos
+Tiempo de guardado: 755555 microsegundos
+Tiempo total: 1305008 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.32929e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1307898 microsegundos
+
+----------------------------------------
+Imagen: fruit.ppm - Filtro: blur
+Hilos disponibles: 12
+Tiempo de carga: 765895 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (OpenMP): 157607 microsegundos
+Tiempo de guardado: 971688 microsegundos
+Tiempo total: 1895190 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.93677e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1898279 microsegundos
+
+Imagen: fruit.ppm - Filtro: laplace
+Hilos disponibles: 12
+Tiempo de carga: 699882 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (OpenMP): 136969 microsegundos
+Tiempo de guardado: 989601 microsegundos
+Tiempo total: 1826452 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.69912e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1828941 microsegundos
+
+Imagen: fruit.ppm - Filtro: sharpen
+Hilos disponibles: 12
+Tiempo de carga: 662588 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (OpenMP): 147820 microsegundos
+Tiempo de guardado: 971157 microsegundos
+Tiempo total: 1781565 microsegundos
+=== Resumen de Tiempos (OpenMP) ===
+Tiempo de CPU: 2.79826e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1784074 microsegundos
+
+----------------------------------------
