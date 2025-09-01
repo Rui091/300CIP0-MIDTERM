@@ -80,7 +80,7 @@ Donde `<N>` es el número de procesos MPI (usualmente igual al número de núcle
 
 ## Créditos
 Proyecto académico para la materia de Computación Paralela.
-Autores: [Tu Nombre]
+Autores: RUI YU LEI WU
 # Parcial 1 - Programación Paralela
 ## Procesamiento de Imágenes PPM/PGM
 
