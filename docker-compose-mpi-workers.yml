@@ -1,0 +1,42 @@
+version: '3.8'
+services:
+  mpi-master:
+    image: japeto/parallel-tools:v64@sha256:a165e4aa3ad1cac11ceee5ec45b5c9c43e0dce1ebad0dea65d7040e250b31fcf
+    container_name: mpi_master
+    working_dir: /workspace
+    volumes:
+      - ./:/workspace
+    tty: true
+    stdin_open: true
+    environment:
+      - OMPI_ALLOW_RUN_AS_ROOT=1
+      - OMPI_ALLOW_RUN_AS_ROOT_CONFIRM=1
+    networks:
+      - mpi-net
+
+  mpi-worker:
+    image: japeto/parallel-tools:v64@sha256:a165e4aa3ad1cac11ceee5ec45b5c9c43e0dce1ebad0dea65d7040e250b31fcf
+    working_dir: /workspace
+    volumes:
+      - ./:/workspace
+    tty: true
+    stdin_open: true
+    environment:
+      - OMPI_ALLOW_RUN_AS_ROOT=1
+      - OMPI_ALLOW_RUN_AS_ROOT_CONFIRM=1
+    networks:
+      - mpi-net
+    deploy:
+      replicas: 3
+
+networks:
+  mpi-net:
+    driver: bridge
+
+# USO:
+# 1. Levanta el clúster:
+#    docker compose -f docker-compose-mpi-workers.yml up -d
+# 2. Accede al master:
+#    docker exec -it mpi_master bash
+# 3. Ejecuta el comando mpirun usando los hosts:
+#    mpirun -np 4 --host mpi_master,mpi_worker_1,mpi_worker_2,mpi_worker_3 ./mpi_filterer test.pgm output.pgm --f blur
