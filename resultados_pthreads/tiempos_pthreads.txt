@@ -1,0 +1,97 @@
+Resultados de Mediciones - Versión Pthreads
+Fecha: Thu Aug 28 16:01:26 UTC 2025
+================================================
+
+Imagen: damma.pgm - Filtro: blur
+Tiempo de carga: 626883 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (Pthreads): 202420 microsegundos
+Tiempo de guardado: 1075232 microsegundos
+Tiempo total: 1904535 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 2.08321e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1907049 microsegundos
+
+Imagen: damma.pgm - Filtro: laplace
+Tiempo de carga: 618881 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (Pthreads): 200171 microsegundos
+Tiempo de guardado: 995351 microsegundos
+Tiempo total: 1814403 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 2.077e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1817190 microsegundos
+
+Imagen: damma.pgm - Filtro: sharpen
+Tiempo de carga: 613700 microsegundos
+Dimensiones: 1000 x 1278
+Tiempo de aplicación del filtro (Pthreads): 206755 microsegundos
+Tiempo de guardado: 1080844 microsegundos
+Tiempo total: 1901299 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 2.09928e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1905286 microsegundos
+
+----------------------------------------
+Imagen: sulfur.pgm - Filtro: blur
+Tiempo de carga: 382606 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (Pthreads): 152338 microsegundos
+Tiempo de guardado: 697973 microsegundos
+Tiempo total: 1232917 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 1.35962e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1235624 microsegundos
+
+Imagen: sulfur.pgm - Filtro: laplace
+Tiempo de carga: 405880 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (Pthreads): 132986 microsegundos
+Tiempo de guardado: 705700 microsegundos
+Tiempo total: 1244566 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 1.33338e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1247111 microsegundos
+
+Imagen: sulfur.pgm - Filtro: sharpen
+Tiempo de carga: 403695 microsegundos
+Dimensiones: 823 x 1000
+Tiempo de aplicación del filtro (Pthreads): 133003 microsegundos
+Tiempo de guardado: 706533 microsegundos
+Tiempo total: 1243231 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 1.3584e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1245575 microsegundos
+
+----------------------------------------
+Imagen: fruit.ppm - Filtro: blur
+Tiempo de carga: 683833 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (Pthreads): 130537 microsegundos
+Tiempo de guardado: 1013171 microsegundos
+Tiempo total: 1827541 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 1.86304e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1829731 microsegundos
+
+Imagen: fruit.ppm - Filtro: laplace
+Tiempo de carga: 659096 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (Pthreads): 161862 microsegundos
+Tiempo de guardado: 1185304 microsegundos
+Tiempo total: 2006262 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 2.02874e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 2009193 microsegundos
+
+Imagen: fruit.ppm - Filtro: sharpen
+Tiempo de carga: 673354 microsegundos
+Dimensiones: 900 x 450
+Tiempo de aplicación del filtro (Pthreads): 154016 microsegundos
+Tiempo de guardado: 970469 microsegundos
+Tiempo total: 1797839 microsegundos
+=== Resumen de Tiempos (Pthreads) ===
+Tiempo de CPU: 1.90263e+06 microsegundos
+Tiempo de ejecución total (wall-clock): 1800117 microsegundos
+
+----------------------------------------
